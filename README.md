@@ -16,3 +16,5 @@ To upload .csv file into S3 bucket, replace "your_aws_bucket_name" in script.py 
 * To find access_key and secret_access_key go to security credentials -> access keys -> create access key - > Agree to the policies -> Copy Access Key and Secret Access Key and replace with the *** in keys.py file. 
 
 
+
+
