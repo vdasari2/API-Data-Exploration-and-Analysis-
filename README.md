@@ -1,6 +1,6 @@
 # API-Data-Exploration-and-Analysis-
 
-This project is Version 1. 
+Project Proposal Version 1:
 
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/64576778/222061011-a6096256-bdf6-43b9-877e-fb69eae2fd6d.png)
 
