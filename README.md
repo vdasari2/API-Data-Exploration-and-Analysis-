@@ -19,6 +19,6 @@ Steps to run the files:
 
 1.Run the NBAData.ipynb file 
 2.Check if the S3 bucket name, access key and secret access key are correct.
-3.Run the script.py file
+3.Run the script.py files
 
 
