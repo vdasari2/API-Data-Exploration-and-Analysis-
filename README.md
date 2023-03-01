@@ -1,5 +1,7 @@
 # API-Data-Exploration-and-Analysis-
 
+This project is Version 1. 
+
 #Install required packages
 
 1. pip install requests
