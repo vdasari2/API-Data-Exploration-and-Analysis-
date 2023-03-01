@@ -2,7 +2,8 @@
 
 This project is Version 1. 
 
-![image](https://user-images.githubusercontent.com/64576778/222058667-49f5eb23-2cfd-4b48-aeb6-64cf7e548adf.png)
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/64576778/222061011-a6096256-bdf6-43b9-877e-fb69eae2fd6d.png)
+
 
 #Install required packages
 
